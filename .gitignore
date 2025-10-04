@@ -1,0 +1,16 @@
+# =========================
+# Python cache & bytecode
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual Environments
+# =========================
+.venv/
+venv/
+env/
+ENV/
+*.env
+*.venv
