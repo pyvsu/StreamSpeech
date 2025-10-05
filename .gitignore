@@ -14,3 +14,9 @@ env/
 ENV/
 *.env
 *.venv
+
+# =========================
+# Pretrained Models
+# =========================
+pretrained_models/*
+!pretrained_models/README.md
